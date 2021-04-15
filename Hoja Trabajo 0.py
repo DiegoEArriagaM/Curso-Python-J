@@ -1,6 +1,6 @@
 print("Calculo del Indice de masa corporal (IMC)")
 #Peticion del peso y la altura
-peso=int(input("Por favor ingrese su peso en Kilogramos: "))
+peso=float(input("Por favor ingrese su peso en Kilogramos: "))
 altura=float(input("Por favor ingrese su altura en metros: "))
 
 #Calcular IMC
